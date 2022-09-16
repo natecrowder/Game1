@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ncrow/source/repos/Game1/Game1/Content/File.spritefont","C:/Users/ncrow/source/repos/Game1/Game1/Content/bin/DesktopGL/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37919,0.1607051
+"C:/Users/ncrow/source/repos/Game1/Game1/Content/linksprite.png","C:/Users/ncrow/source/repos/Game1/Game1/Content/bin/DesktopGL/Content/linksprite.xnb","TextureProcessor","Texture2DContent",822,6229,0.0878529
